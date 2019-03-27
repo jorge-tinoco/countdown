@@ -1,0 +1,19 @@
+.time-box {
+	margin: 2%;
+	padding: 6%;
+	display: inline-block;
+	border: 0.15vw solid #DFE0E2;
+	border-radius: 15px;
+	text-align: center;
+}
+.number{
+	display: block;
+	font-size:5vw;
+	font-family: "Microsoft Tai Le"
+}
+.text{
+	color: #A3A3A3;
+	font-size:2vw;
+	font-family: "Helvetica"
+
+}
